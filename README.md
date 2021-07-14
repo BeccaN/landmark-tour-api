@@ -1,24 +1,10 @@
-# README
+# Instructions
+* clone the repository
+* checkout to a new branch with `git checkout -b <branch name>`
+* make changes within new branch and push main, make sure there are no conflicts
+* use the slack channel to communicate on changes and developments
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Goals
+* Test Driven Development 
+* Google Maps API usage
+* User can request a walking path that is X miles long or will take X minutes to walk. Google Maps will establish a path that connects the walker to several landmarks and interesting sites. 
